@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Favorite Movies</string>
+    <string name="stringAddMovie">Add Movie</string>
+    <string name="stringEdit">Edit Movie</string>
+    <string name="stringDeleteMovie">Delete Movie</string>
+    <string name="stringShowListByYear">Show List By Year</string>
+    <string name="stringShowListByRating">Show List By Rating</string>
+    <string name="movieName" />
+    <string name="nameHint">Name :</string>
+    <string name="descriptionLabel">Description :</string>
+    <string name="genreLabel">Genre :</string>
+    <string name="ratingLabel">Rating :</string>
+    <string name="yearLabel">Year :</string>
+    <string name="imdbLabel">IMDB :</string>
+    <string name="saveButtonLabel">Add Movie</string>
+    <string name="finishButtonLabel">Finish</string>
+</resources>

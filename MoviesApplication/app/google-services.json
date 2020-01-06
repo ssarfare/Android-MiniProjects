@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286163582153",
+    "firebase_url": "https://moviesdb-afd60.firebaseio.com",
+    "project_id": "moviesdb-afd60",
+    "storage_bucket": "moviesdb-afd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286163582153:android:d727aa28e7407363d96118",
+        "android_client_info": {
+          "package_name": "com.example.myfavoritemovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286163582153-9hvouf0kdihr2d8fjpd0upt8p379fr9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPg8gMzS4Tq6JOdNq1t6lrTS0ty7L8r4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286163582153-9hvouf0kdihr2d8fjpd0upt8p379fr9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">I Love Zappos!</string>
+    <string name="transactionHistory">Transaction History</string>
+    <string name="orderBook">Order Book</string>
+    <string name="amount">Amount</string>
+    <string name="bids">Bids</string>
+    <string name="asks">Asks</string>
+    <string name="priceAlertButtonText">Set Price Alert</string>
+    <string name="preferenceKey">Price</string>
+    <string name="priceValue">Price Value</string>
+    <string name="workId">workId</string>
+    <string name="deleteAlert">Delete Alert</string>
+    <string name="alertDetails">Alert Details</string>
+    <string name="alertNotificationChannelName">Alert Channel</string>
+</resources>

@@ -2,6 +2,12 @@
 
 A native Android app written in Java that displays cryptocurrency price information from https://www.bitstamp.net. The application focuses on demonstrating the Use of various API's and prasing required data, use of recycler view and creating tasks and notification. 
 
+
+I Love Zappos             |  Transaction History    |  Order Book  |  Price Alert Notification  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/ssarfare/Android-MiniProjects/blob/master/ILoveZappos/media/Screenshot_20200925-182015.jpg" width="300" height="300" /> | <img src="https://github.com/ssarfare/Android-MiniProjects/blob/master/ILoveZappos/media/Screenshot_20200925-194153.jpg" width="300" height="300" /> |  <img src="https://github.com/ssarfare/Android-MiniProjects/blob/master/ILoveZappos/media/Screenshot_20200925-182024.jpg" width="300" height="300"/> | <img src="https://github.com/ssarfare/Android-MiniProjects/blob/master/ILoveZappos/media/Screenshot_20200925-182109.jpg" width="300" height="300"/>
+
+
 Features:
 
 - Transaction History

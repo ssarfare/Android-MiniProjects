@@ -20,5 +20,3 @@ I Love Zappos             |  Pizza Store
 #### **Movies Application**
 - An application to record your favourite movies.
 
-
-Following are some of the screenshots of the applications:
